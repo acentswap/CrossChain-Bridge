@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com//CrossChain-Bridge/mongodb"
+	"github.com/CrossChain-Bridge/mongodb"
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
