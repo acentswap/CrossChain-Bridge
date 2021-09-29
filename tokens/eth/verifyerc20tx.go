@@ -10,8 +10,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapap/CrossChain-Bridge/tokens/tools"
-	"github.com/acentswapapapapapapapapapapapapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/tokens/tools"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 // verifyErc20SwapinTx verify erc20 swapin with pairID

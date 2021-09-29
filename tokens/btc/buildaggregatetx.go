@@ -6,7 +6,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapap/CrossChain-Bridge/tokens/btc/electrs"
+	"github.com/acentswap/CrossChain-Bridge/tokens/btc/electrs"
 	"github.com/btcsuite/btcwallet/wallet/txauthor"
 )
 

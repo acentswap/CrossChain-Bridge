@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 )
 
 // GetStatusByTokenVerifyError get status by token verify error

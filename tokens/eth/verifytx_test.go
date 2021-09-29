@@ -10,8 +10,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/common/hexutil"
 	"github.com/acentswap/CrossChain-Bridge/params"
-	"github.com/acentswapapapap/CrossChain-Bridge/tokens"
-	"github.com/acentswapapapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 var (

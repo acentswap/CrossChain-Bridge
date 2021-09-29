@@ -5,7 +5,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapapapapap/CrossChain-Bridge/tokens/tools"
+	"github.com/acentswap/CrossChain-Bridge/tokens/tools"
 )
 
 func (b *Bridge) getP2shAddressWithMemo(memo, pubKeyHash []byte) (p2shAddress string, redeemScript []byte, err error) {

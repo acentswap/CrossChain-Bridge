@@ -9,7 +9,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapap/CrossChain-Bridge/worker"
+	"github.com/acentswap/CrossChain-Bridge/worker"
 	"github.com/urfave/cli/v2"
 )
 

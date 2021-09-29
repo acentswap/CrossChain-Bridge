@@ -8,7 +8,7 @@ import (
 	"github.com/BurntSushi/toml"
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapapapapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 )
 
 const (

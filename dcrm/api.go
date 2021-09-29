@@ -7,7 +7,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/rpc/client"
+	"github.com/acentswap/CrossChain-Bridge/rpc/client"
 )
 
 // get dcrm sign status error

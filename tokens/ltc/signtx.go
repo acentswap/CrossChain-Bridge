@@ -13,7 +13,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/dcrm"
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapap/CrossChain-Bridge/tools/crypto"
+	"github.com/acentswap/CrossChain-Bridge/tools/crypto"
 	"github.com/ltcsuite/ltcwallet/wallet/txauthor"
 )
 

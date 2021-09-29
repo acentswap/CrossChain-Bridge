@@ -9,7 +9,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/mongodb"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/types"
 	mapset "github.com/deckarep/golang-set"
 )
 

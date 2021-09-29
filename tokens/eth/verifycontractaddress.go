@@ -8,8 +8,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens/btc"
-	"github.com/acentswapapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/tokens/btc"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 var (
@@ -129,7 +129,7 @@ func (b *Bridge) VerifyErc20ContractAddress(contract, codeHash string, isProxy b
 	return nil
 }
 
-// VerifyacentswapapapapapapContractAddress verify acentswapap contract
+// VerifyacentswapContractAddress verify acentswap contract
 func (b *Bridge) VerifyacentswapContractAddress(contract string) (err error) {
 	return b.VerifyContractCode(contract, ExtCodeParts)
 }

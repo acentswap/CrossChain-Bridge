@@ -13,7 +13,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/dcrm"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapap/CrossChain-Bridge/tokens/btc"
+	"github.com/acentswap/CrossChain-Bridge/tokens/btc"
 	mapset "github.com/deckarep/golang-set"
 )
 

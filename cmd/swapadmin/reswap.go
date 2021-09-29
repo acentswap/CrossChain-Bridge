@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/acentswapap/CrossChain-Bridge/cmd/utils"
-	"github.com/acentswapapap/CrossChain-Bridge/log"
+	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
+	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/urfave/cli/v2"
 )
 

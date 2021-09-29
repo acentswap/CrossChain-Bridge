@@ -13,8 +13,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/acentswap/CrossChain-Bridge/tokens/btc"
 	"github.com/acentswap/CrossChain-Bridge/tokens/btc/electrs"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens/eth"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens/tools"
+	"github.com/acentswap/CrossChain-Bridge/tokens/eth"
+	"github.com/acentswap/CrossChain-Bridge/tokens/tools"
 	"github.com/urfave/cli/v2"
 )
 

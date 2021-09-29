@@ -6,7 +6,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/acentswap/CrossChain-Bridge/tokens/btc/electrs"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens/tools"
+	"github.com/acentswap/CrossChain-Bridge/tokens/tools"
 )
 
 func (b *Bridge) processTransaction(txid string) {

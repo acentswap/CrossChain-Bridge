@@ -10,7 +10,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/mongodb"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/worker"
-	"github.com/acentswapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 )
 
 const (

@@ -9,7 +9,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapapapapapapapapapapapapapap/CrossChain-Bridge/tokens/btc/electrs"
+	"github.com/acentswap/CrossChain-Bridge/tokens/btc/electrs"
 	"github.com/ltcsuite/ltcwallet/wallet/txauthor"
 	"github.com/ltcsuite/ltcwallet/wallet/txrules"
 	"github.com/ltcsuite/ltcwallet/wallet/txsizes"

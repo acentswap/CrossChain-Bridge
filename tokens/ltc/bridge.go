@@ -8,7 +8,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
-	"github.com/acentswapapapapapap/CrossChain-Bridge/tokens/btc"
+	"github.com/acentswap/CrossChain-Bridge/tokens/btc"
 )
 
 const (

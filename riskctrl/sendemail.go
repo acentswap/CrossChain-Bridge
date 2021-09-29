@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/tools"
+	"github.com/acentswap/CrossChain-Bridge/tools"
 )
 
 var (

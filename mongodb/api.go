@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/acentswap/CrossChain-Bridge/common"
-	"github.com/acentswapapap/CrossChain-Bridge/log"
+	"github.com/acentswap/CrossChain-Bridge/log"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

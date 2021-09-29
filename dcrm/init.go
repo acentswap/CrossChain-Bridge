@@ -11,8 +11,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/acentswap/CrossChain-Bridge/tools"
-	"github.com/acentswapap/CrossChain-Bridge/tools/keystore"
-	"github.com/acentswapapapapapapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/tools/keystore"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 const (

@@ -17,7 +17,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/tokens/fsn"
 	"github.com/acentswap/CrossChain-Bridge/tokens/ltc"
 	"github.com/acentswap/CrossChain-Bridge/tokens/tools"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens/okex"
+	"github.com/acentswap/CrossChain-Bridge/tokens/okex"
 )
 
 // NewCrossChainBridge new bridge according to chain name

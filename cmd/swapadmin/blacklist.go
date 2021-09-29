@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/cmd/utils"
+	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
 	"github.com/urfave/cli/v2"
 )
 

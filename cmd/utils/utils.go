@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/params"
+	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/urfave/cli/v2"
 )
 

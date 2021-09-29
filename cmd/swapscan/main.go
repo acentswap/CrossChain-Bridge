@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
-	"github.com/acentswapap/CrossChain-Bridge/log"
+	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/urfave/cli/v2"
 )
 

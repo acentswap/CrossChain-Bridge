@@ -9,8 +9,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
-	"github.com/acentswapapapap/CrossChain-Bridge/types"
-	"github.com/acentswapapapapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 )
 
 // verifySwapoutTxWithPairID verify swapout with PairID

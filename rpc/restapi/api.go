@@ -9,7 +9,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/internal/swapapi"
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/params"
+	"github.com/acentswap/CrossChain-Bridge/params"
 	"github.com/gorilla/mux"
 )
 

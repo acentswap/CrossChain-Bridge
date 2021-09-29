@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/ltcsuite/ltcwallet/wallet/txauthor"
 )
 

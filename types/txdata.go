@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/acentswap/CrossChain-Bridge/common"
-	"github.com/acentswapapap/CrossChain-Bridge/tools/rlp"
+	"github.com/acentswap/CrossChain-Bridge/tools/rlp"
 )
 
 var (

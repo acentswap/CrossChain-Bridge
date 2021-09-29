@@ -5,7 +5,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
-	"github.com/acentswapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 // SendTransaction send signed tx

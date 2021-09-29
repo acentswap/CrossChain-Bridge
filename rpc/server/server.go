@@ -17,8 +17,8 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/params"
-	"github.com/acentswapap/CrossChain-Bridge/rpc/restapi"
-	"github.com/acentswapapapapapapap/CrossChain-Bridge/rpc/rpcapi"
+	"github.com/acentswap/CrossChain-Bridge/rpc/restapi"
+	"github.com/acentswap/CrossChain-Bridge/rpc/rpcapi"
 )
 
 // StartAPIServer start api server

@@ -5,7 +5,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/admin"
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
-	"github.com/acentswapap/CrossChain-Bridge/rpc/client"
+	"github.com/acentswap/CrossChain-Bridge/rpc/client"
 	"github.com/urfave/cli/v2"
 )
 

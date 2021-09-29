@@ -2,7 +2,7 @@ package swapapi
 
 import (
 	"github.com/acentswap/CrossChain-Bridge/mongodb"
-	"github.com/acentswapapapapapapapapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 )
 
 // SwapStatus type alias

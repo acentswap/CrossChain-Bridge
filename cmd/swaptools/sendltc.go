@@ -11,7 +11,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/acentswap/CrossChain-Bridge/tokens/ltc"
-	"github.com/acentswapapapapap/CrossChain-Bridge/tools"
+	"github.com/acentswap/CrossChain-Bridge/tools"
 	"github.com/ltcsuite/ltcd/btcec"
 	"github.com/ltcsuite/ltcutil"
 	"github.com/ltcsuite/ltcutil/base58"

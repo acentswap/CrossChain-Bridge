@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapapapapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"gopkg.in/mgo.v2"
 )
 

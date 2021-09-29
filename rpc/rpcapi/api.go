@@ -7,7 +7,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/internal/swapapi"
 	"github.com/acentswap/CrossChain-Bridge/params"
-	"github.com/acentswapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 )
 
 // RPCAPI rpc api handler

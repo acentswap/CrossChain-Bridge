@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapapap/CrossChain-Bridge/rpc/client"
+	"github.com/acentswap/CrossChain-Bridge/rpc/client"
 )
 
 // CheckConfig check config

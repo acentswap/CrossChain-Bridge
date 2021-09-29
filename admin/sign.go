@@ -13,7 +13,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/tools"
 	"github.com/acentswap/CrossChain-Bridge/tools/keystore"
 	"github.com/acentswap/CrossChain-Bridge/tools/rlp"
-	"github.com/acentswapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/acentswap/CrossChain-Bridge/rpc/client"
-	"github.com/acentswapap/CrossChain-Bridge/tokens/bridge"
+	"github.com/acentswap/CrossChain-Bridge/tokens/bridge"
 )
 
 const interval = 10 * time.Millisecond

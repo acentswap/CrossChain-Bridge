@@ -7,7 +7,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/rpc/client"
-	"github.com/acentswapapap/CrossChain-Bridge/tokens"
+	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/shopspring/decimal"
 )
 

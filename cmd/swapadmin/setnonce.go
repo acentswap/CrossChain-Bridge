@@ -5,7 +5,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
 	"github.com/acentswap/CrossChain-Bridge/common"
-	"github.com/acentswapap/CrossChain-Bridge/log"
+	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/urfave/cli/v2"
 )
 

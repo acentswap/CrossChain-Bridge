@@ -5,7 +5,7 @@ import (
 	"math/big"
 
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 // transaction memo prefix

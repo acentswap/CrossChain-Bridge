@@ -5,7 +5,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/acentswap/CrossChain-Bridge/tokens/bridge"
-	"github.com/acentswapapapap/CrossChain-Bridge/tools"
+	"github.com/acentswap/CrossChain-Bridge/tools"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
 	"github.com/acentswap/CrossChain-Bridge/log"
-	"github.com/acentswapap/CrossChain-Bridge/riskctrl"
+	"github.com/acentswap/CrossChain-Bridge/riskctrl"
 	"github.com/urfave/cli/v2"
 )
 

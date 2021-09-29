@@ -9,7 +9,7 @@ import (
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/acentswap/CrossChain-Bridge/tokens/eth"
-	"github.com/acentswapap/CrossChain-Bridge/types"
+	"github.com/acentswap/CrossChain-Bridge/types"
 )
 
 // Bridge fsn bridge inherit from eth bridge
