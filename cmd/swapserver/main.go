@@ -6,12 +6,11 @@ import (
 	"os"
 	"time"
 
-	rpcserver "gacentswapom/acentswap/CrossChain-Bridge/rpc/server"
-
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
 	"github.com/acentswap/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/mongodb"
 	"github.com/acentswap/CrossChain-Bridge/params"
+	rpcserver "github.com/acentswap/CrossChain-Bridge/rpc/server"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
 	"github.com/acentswap/CrossChain-Bridge/worker"
 	"github.com/urfave/cli/v2"
