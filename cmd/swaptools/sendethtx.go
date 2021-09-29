@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com//CrossChain-Bridge/log"
+	"github.com/CrossChain-Bridge/log"
 	"github.com/acentswap/CrossChain-Bridge/cmd/utils"
 	"github.com/acentswap/CrossChain-Bridge/common"
 	"github.com/acentswap/CrossChain-Bridge/tokens"
